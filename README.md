@@ -12,3 +12,7 @@ py files:<br>
 [bl.py](https://github.com/yfang82/Portfolio_Optimization/blob/main/bl.py): Preparing all the inputs needed in Black-Litterman model, including market implied return, investor's predictions, confidence level matrix. Calculating expected return.<br>
 [calc_weights.py](https://github.com/yfang82/Portfolio_Optimization/blob/main/calc_weights.py): Obtaining max sharpe ratio weights with the expected returns and covariance matrix based on the model. <br>
 [efficient_frontier.py](https://github.com/yfang82/Portfolio_Optimization/blob/main/efficient_frontier.py): Plotting efficient frontier based on the model.
+
+Reference:
+Idzorek, Thomas. “A Step-By-Step Guide to the Black-Litterman Model Incorporating User-Specified Confidence Levels.” SSRN Electronic Journal, 2019, https://doi.org/10.2139/ssrn.3479867.
+[A STEP-BY-STEP GUIDE TO THE BLACK-LITTERMAN MODEL:Incorporating user-specified confidence levels](https://people.duke.edu/~charvey/Teaching/BA453_2006/Idzorek_onBL.pdf)
