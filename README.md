@@ -1,4 +1,4 @@
-# Portfolio_Optimization
+# Portfolio Optimization with Numerical Methods and Black-Litterman method
 In this project, I optimized a portfolio of eight S&P500 stocks with Black-Litterman method and generate max sharpe ratio weights as well as the efficient frontier.<br>  
 
 The project was inspired by my MATH 151B course project at UCLA and my recent internship work. In my course project, I solve systems of linear equations that describe simple portfolio optimization situations with numerical method. The project was written in MATLAB and can be seen in [151B_project.pdf](https://github.com/yfang82/Portfolio_Optimization/blob/main/151B_Project.pdf) file.<br> 
