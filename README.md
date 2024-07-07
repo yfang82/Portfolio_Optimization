@@ -7,7 +7,7 @@ However, with further exploration in portfolio investment, I realize that in rea
 
 In [Black_Litterman_method.ipynb](https://github.com/yfang82/Portfolio_Optimization/blob/main/Black_Litterman_method.ipynb), I demonstrated the functions I wrote to implement the Black-Litterman method step-by-step. 
 
-py files:
+py files:<br>
 [preprocessing.py](https://github.com/yfang82/Portfolio_Optimization/blob/main/preprocessing.py): Web scrapping, data reading and some data processing to get market cap, covariance matrix and delta, which are needed in later calculation.<br>
 [bl.py](https://github.com/yfang82/Portfolio_Optimization/blob/main/bl.py): Preparing all the inputs needed in Black-Litterman model, including market implied return, investor's predictions, confidence level matrix. Calculating expected return.<br>
 [calc_weights.py](https://github.com/yfang82/Portfolio_Optimization/blob/main/calc_weights.py): Obtaining max sharpe ratio weights with the expected returns and covariance matrix based on the model. <br>
